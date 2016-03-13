@@ -23,3 +23,12 @@ Appears in the Lower Left Quadrant, in the second "Trial" Sector.
 Where r = radius, and t = theta; the degrees in radians. with 0/360 degrees being the typical right hand x line rotating in an anti-clockwise direction.
 
 See http://en.wikipedia.org/wiki/Polar_coordinates for more details.
+
+Inspired from: https://www.thoughtworks.com/insights/blog/build-your-own-technology-radar
+
+Important notice! You need at least one element in a Circle (Access/Trial/Hold/Adapt)
+
+Technology radar:
+- 4 Quadrants (Techniques, Tools, Platforms, Languages)
+- 4 Rings (from outer to inner: hold, assess, trial, adopt)
+- Icons: Triangles for new or moved items, circles for no changes
